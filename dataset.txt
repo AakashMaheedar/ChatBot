@@ -1,0 +1,43 @@
+Q:Hello
+A:Hi There!!
+Q:What is your name
+A:My name is Imran.And Yours
+Q:My name is 
+A:Good name!How do you do?
+Q:I'm Fine
+A:How can i help you?
+Q:Who is dean of Chit Vihar
+A:Professor Madam - Uma Maheshawari
+Q:What are you meant for
+A:To guide u inside Sastra Campus.
+Q:What is Canopy
+A:A Food Court.
+Q:What is KC
+A:A Food Court.
+Q:What is VKJ full form
+A:Vikram karam Jodhu.
+Q:What is Chit Vihar
+A:Block for school of computing.
+Q:What is VV
+A:Viduth Vihar Block for school of Electrical Engineering.
+Q:What is todays special in Canopy
+A:North Indian Thalli.
+Q:What is Chankya
+A:Law block.
+Q:I love you
+A:Better luck next time.
+Q:What is love
+A:Opposite sex attract each other/deepest affection
+Q:What the Fuck
+A:Mind Your Words
+Q:What is your age
+A:New Born
+Q:Any special about sastra
+A:Placement oriented University unlike marks!!
+
+
+
+
+
+
+
